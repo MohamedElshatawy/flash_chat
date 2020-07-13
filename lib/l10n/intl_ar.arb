@@ -1,0 +1,152 @@
+{
+  "@@last_modified": "2020-05-13T23:17:03.039875",
+  "title": "⚡ دردشة",
+  "@title": {
+    "description": "Application title ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "darkMode": "الوضع المظلم",
+  "@darkMode": {
+    "description": "Application Mode ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordUpdate": "تحديث كلمه السر",
+    "@passwordUpdate": {
+      "description": "Application passwordUpdate ",
+      "type": "text",
+      "placeholders": {}
+  },
+  "deleteChat": "حذف الدردشة",
+  "@deleteChat": {
+    "description": "Application deleteChat ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logOut": "تسجيل خروج",
+  "@logOut": {
+    "description": "Application logOut ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lang": "تغيير اللغة",
+    "@lang": {
+      "description": "Application Language ",
+      "type": "text",
+      "placeholders": {}
+    },
+    "selectImage": "لم يتم اختيار صورة",
+    "@selectImage": {
+      "description": "Application selectImage ",
+      "type": "text",
+      "placeholders": {}
+    },
+    "messages": "...اكتب الرساله هنا",
+    "@messages": {
+      "description": "Application message ",
+      "type": "text",
+      "placeholders": {}
+    },
+    "login": "تسجيل دخول",
+    "@login": {
+      "description": "Application login ",
+      "type": "text",
+      "placeholders": {}
+    },
+    "register": "تسجيل ",
+    "@register": {
+      "description": "Application Register ",
+      "type": "text",
+      "placeholders": {}
+    },
+    "email": "البريد الالكتروني",
+    "@email": {
+      "description": "Application Email ",
+      "type": "text",
+      "placeholders": {}
+    },
+    "password": "كلمه السر",
+    "@password": {
+      "description": "Application Password ",
+      "type": "text",
+      "placeholders": {}
+    },
+    "haveAccount": "هل تمتلك حساب ",
+    "@haveAccount": {
+      "description": "Application haveAccount ",
+      "type": "text",
+      "placeholders": {}
+    },
+      "oldPassword": "كلمه السر القديمة",
+      "@oldPassword": {
+        "description": "Application oldPassword ",
+        "type": "text",
+        "placeholders": {}
+      },
+      "newPassword": "كلمه السر الجديدة",
+      "@newPassword": {
+        "description": "Application newPassword ",
+        "type": "text",
+        "placeholders": {}
+      },
+      "confirm": "تأكيد",
+        "@confirm": {
+          "description": "Application confirm ",
+          "type": "text",
+          "placeholders": {}
+      },
+       "profilePictureChange": "تم تغير صورة الملف الشخصي بنجاح",
+        "@profilePictureChange": {
+          "description": "Application profilePictureChange ",
+          "type": "text",
+          "placeholders": {}
+      },
+      "enterEmail": "رجاء أدخل بريدك الالكتروني",
+        "@enterEmail": {
+          "description": "Application enterEmail ",
+          "type": "text",
+          "placeholders": {}
+        },
+        "enterEmailReg": "\"exmp@gmail.com\"يجب ان يكون البريد الالكتروني مثل هذا",
+        "@enterEmailReg": {
+          "description": "Application enterEmailReg ",
+          "type": "text",
+          "placeholders": {}
+        },
+        "enterPassword": "رجاء أدخل كلمه السر",
+        "@enterPassword": {
+          "description": "Application enterPassword ",
+          "type": "text",
+          "placeholders": {}
+        },
+        "passwordLessThan": "كلمه السر أقل من 6",
+        "@passwordLessThan": {
+          "description": "Application passwordLessThan ",
+          "type": "text",
+          "placeholders": {}
+        },
+        "passwordGreatThan": "كلمه السر أكبر من 15",
+        "@passwordGreatThan": {
+          "description": "Application passwordGreatThan ",
+          "type": "text",
+          "placeholders": {}
+        },
+        "confirmPassword": "كلمه السر وتأكيد كلمه السر غير متطابقه",
+        "@confirmPassword": {
+          "description": "Application confirmPassword ",
+          "type": "text",
+          "placeholders": {}
+        },
+        "confirmPasswordText": "تأكيد كلمه السر",
+          "@confirmPasswordText": {
+            "description": "Application confirmPasswordText ",
+            "type": "text",
+            "placeholders": {}
+        },
+          "or": "أو",
+            "@or": {
+              "type": "text",
+              "placeholders": {}
+        }
+}

@@ -1,0 +1,152 @@
+{
+  "@@last_modified": "2020-06-25T23:54:46.379085",
+  "title": "⚡ ️Chat",
+  "@title": {
+    "description": "Application title ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Application Mode ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordUpdate": "Password Update",
+  "@passwordUpdate": {
+    "description": "Application passwordUpdate ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteChat": "Delete Chat",
+  "@deleteChat": {
+    "description": "Application deleteChat ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logOut": "Logout",
+  "@logOut": {
+    "description": "Application logOut ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lang": "Change Language",
+  "@lang": {
+    "description": "Application Language ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectImage": "No Image Selected",
+  "@selectImage": {
+    "description": "Application selectImage ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "messages": "Type your message here...",
+  "@messages": {
+    "description": "Application message ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Application login ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "Register",
+  "@register": {
+    "description": "Application Register ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "E-mail",
+  "@email": {
+    "description": "Application Email ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Application Password ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveAccount": "You have Account",
+  "@haveAccount": {
+    "description": "Application haveAccount ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oldPassword": "Old password",
+  "@oldPassword": {
+    "description": "Application oldPassword ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPassword": "New password",
+  "@newPassword": {
+    "description": "Application newPassword ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Application confirm ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "profilePictureChange": "Profile picture change successful",
+  "@profilePictureChange": {
+    "description": "Application profilePictureChange ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterEmail": "Please enter your email",
+  "@enterEmail": {
+    "description": "Application enterEmail ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterEmailReg": "Email must be like this \"exmp@gmail.com\"",
+  "@enterEmailReg": {
+    "description": "Application enterEmailReg ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterPassword": "Please enter your password",
+  "@enterPassword": {
+    "description": "Application enterPassword ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordLessThan": "Your password less than 6",
+  "@passwordLessThan": {
+    "description": "Application passwordLessThan ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordGreatThan": "Your password great than 15",
+  "@passwordGreatThan": {
+    "description": "Application passwordGreatThan ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "Your password and confirmation password \n do not match",
+  "@confirmPassword": {
+    "description": "Application confirmPassword ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPasswordText": "Confirm password",
+  "@confirmPasswordText": {
+    "description": "Application confirmPasswordText ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "OR",
+  "@or": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

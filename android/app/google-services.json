@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393622757453",
+    "firebase_url": "https://flash-12a03.firebaseio.com",
+    "project_id": "flash-12a03",
+    "storage_bucket": "flash-12a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393622757453:android:65b604b5ac4449c17c7c04",
+        "android_client_info": {
+          "package_name": "mohamedelshatawy.com.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393622757453-0v88lh83plri9p8l5jliajq57mnajh9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mohamedelshatawy.com.flash_chat",
+            "certificate_hash": "2f3ae7dac26fe2a2d92f38c272ef2c94ad7fcd9f"
+          }
+        },
+        {
+          "client_id": "393622757453-dqi9e75ca710r0fp62ja8d3tvn8cr8bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT98nUUGEL1CayBOSt9mUqzP487qI_sM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393622757453-dqi9e75ca710r0fp62ja8d3tvn8cr8bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
