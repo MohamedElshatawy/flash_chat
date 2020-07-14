@@ -8,4 +8,4 @@
  facebook account or
  google account and you can delete chat.
 
-![flash_chat](https://imgflip.com/gif/489gvf)
+![flash_chat](https://gfycat.com/caringspecificcatbird)
