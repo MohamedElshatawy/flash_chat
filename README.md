@@ -8,5 +8,4 @@
  facebook account or
  google account and you can delete chat. 
 
-<img src="http://internal storage/Download/flash.gif" title="flash_chat">
-![flash_chat](internal storage/Download/flash.gif)
+
