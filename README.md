@@ -6,6 +6,6 @@
  switch between dark and light mode 
  sigin with email and password or 
  facebook account or
- google account and you can delete chat. 
+ google account and you can delete chat.
 
-![flash_chat](https://imgflip.com/gif/489ckg)
+![flash_chat](https://imgflip.com/gif/489gvf)
